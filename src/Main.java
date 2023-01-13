@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Ramas con 'squash'");
 
         //main commit A
+        //main commit B
     }
 }

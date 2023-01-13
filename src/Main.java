@@ -5,5 +5,6 @@ public class Main {
         //main commit A
         //main commit B
         //commit con la rama colaborador squashed
+        //commit con la rama lider squashed
     }
 }
